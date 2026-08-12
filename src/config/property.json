@@ -391,12 +391,12 @@
       {
         "label": "Planimetrie catastali",
         "enabled": true,
-        "documentUrl": null
+        "documentUrl": "/images/planimetrie-catasto-1-1786548966157.pdf"
       },
       {
         "label": "Visure catastali",
         "enabled": true,
-        "documentUrl": null
+        "documentUrl": "/images/planimetrie-catasto-2-1786548971452.pdf"
       }
     ]
   },
