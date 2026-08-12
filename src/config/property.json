@@ -11,7 +11,7 @@
     "url": "https://annunci.domustua.com/annuncio/T229",
     "prezzo": 93000,
     "prezzoTesto": "€ 93.000",
-    "aggiornatoIl": "2026-08-12T15:34:11.088Z"
+    "aggiornatoIl": "2026-08-12T15:34:13.088Z"
   },
   "agencyName": "DomusTua Immobiliare",
   "agencyPhone": "+39 0331 844898 | +39 346 6042314",
@@ -504,8 +504,32 @@
     "sectionTitle": "VIVI LA CASA",
     "galleryHeading": "LE FOTO DELL’IMMOBILE",
     "galleryEnabled": true,
-    "gallery": [],
-    "galleryGeneratedAt": null
+    "gallery": [
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/03134cc0267a648f1cdc7dcaf22e9dcc15de7fa6.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/19549ea56b9e04902f60b6487406bae57a008c9b.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/56e3e8edf1ec2addf62b1fc77c55ca577c86a087.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/6b91afb80a6f3dd90f6ce2648e19a106ff971dac.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/b2ae81e27652696509d388b4391e18debe167d92.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/45f810b854eb672d82e1a54209c6b8791f63bfd3.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/5d095ed5e8336e9ea731ff4858db33a06dd6b2a7.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/01d732d328e994e0916e3dc243158f2824e9b858.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/12a45d847def0a68f02d421ccb419dab6204fe45.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/1203c9225856ee5e6e57990ca92c34ff623076b4.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/495e7a7e4245b8999ddbf9950400eb8a313a8dae.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/f6804e5063cba47dae86c343c19447a8c2cd0f8f.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/5b95cdab8e4c90507e9f390e53811718cea9bbdd.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/85163744f0582f1ba27a5322a8c7abc5a397bdaf.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/09308c21d1d5c136f6b0a502e8ee9cff699e86ba.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/72b722fbf01374ee58c64f6cde8d8e6bbf4668e0.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/f3ec384530ce277bcbc3c2d6aa6900b1ec5b8d7a.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/365972c64c19089e1b69c7d71d5fb7663379c63e.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/a504e5cabf3499c74c988990a14d9eacd4de7b55.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/dc6b708e00bc930827410455906059da0f7ac840.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/c6c8f5c2a850a178f9dd6de5779f4fcc5dbe0469.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/50bd1dc3f60f8e9ce5c975c121b0380dc9328e51.jpg",
+      "https://annunci.domustua.com/crm/data/realestate/images/1024x768/584df3bd222b78d158c95ee20e82db7ee6c59ae5.jpg"
+    ],
+    "galleryGeneratedAt": "2026-08-12T15:34:13.088Z"
   },
   "matterport": {
     "enabled": true,
