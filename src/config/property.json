@@ -131,20 +131,20 @@
     "enabled": true,
     "sectionNumber": "",
     "sectionTitle": "LA QUALITÀ DELL'IMMOBILE",
-    "sourceDocument": "",
-    "generatedAt": null,
+    "sourceDocument": "docs/descrizione-immobile.pdf",
+    "generatedAt": "2026-08-12T15:34:29.312Z",
     "voci": [
       {
         "label": "Anno costruzione",
-        "text": ""
+        "text": "L'immobile è stato costruito nel 2007."
       },
       {
         "label": "Ristrutturazioni",
-        "text": ""
+        "text": "Ristrutturazione nel 2021: sostituzione di tutti i serramenti e delle porte interne, installazione della caldaia a condensazione e dell'impianto di aria condizionata, rifacimento del pavimento, del bagno e della cucina."
       },
       {
         "label": "Serramenti",
-        "text": ""
+        "text": "Porta blindata d'ingresso, infissi in pvc con vetri doppi e persiane in alluminio. La finestra del bagno è motorizzata."
       },
       {
         "label": "Tetto",
@@ -156,23 +156,23 @@
       },
       {
         "label": "Riscaldamento",
-        "text": ""
+        "text": "Impianto autonomo con caldaia a condensazione e radiatori in ghisa."
       },
       {
         "label": "Climatizzazione",
-        "text": ""
+        "text": "L'appartamento è dotato di impianto di aria condizionata, installato con la ristrutturazione del 2021."
       },
       {
         "label": "Materiali",
-        "text": ""
+        "text": "Pavimentazione in gres porcellanato. La struttura del fabbricato è mista muratura/cemento armato, con finitura esterna in intonaco e mattoni a vista."
       },
       {
         "label": "Impianti",
-        "text": ""
+        "text": "Videocitofono, rete per computer, fibra ottica e parabola TV. Lo scarico è servito da fossa biologica; la certificazione energetica riporta la classe F, da rifare dopo gli interventi effettuati."
       },
       {
         "label": "Tutti i plus",
-        "text": ""
+        "text": "Tende da sole manuali. L'appartamento è al piano secondo di un edificio di 3 piani fuori terra, con cantina, posto auto scoperto e balcone."
       }
     ]
   },
