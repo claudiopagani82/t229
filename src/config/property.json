@@ -18,7 +18,7 @@
   "agencyEmail": "immobiliare@domustua.com",
   "navigation": [
     {
-      "title": "Benvenuto",
+      "title": "Benvenuto/a",
       "href": "/",
       "enabled": true
     },
@@ -124,7 +124,7 @@
     "sectionTitle": "DOVE SI TROVA",
     "intro": {
       "enabled": true,
-      "text": "Benvenuta/o, visita questo bilocale arredato completamente ristrutturato Mozzate sito in Via ai Ronchi, 63, Mozzate"
+      "text": "Benvenuta/o, visita questo bilocale arredato completamente ristrutturato a Mozzate sito in Via ai Ronchi, 63"
     }
   },
   "qualitaImmobile": {
