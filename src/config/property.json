@@ -11,7 +11,7 @@
     "url": "https://annunci.domustua.com/annuncio/T229",
     "prezzo": 93000,
     "prezzoTesto": "€ 93.000",
-    "aggiornatoIl": "2026-08-12T15:33:49.508Z"
+    "aggiornatoIl": "2026-08-12T15:34:11.088Z"
   },
   "agencyName": "DomusTua Immobiliare",
   "agencyPhone": "+39 0331 844898 | +39 346 6042314",
@@ -336,7 +336,44 @@
     "enabled": true,
     "sectionNumber": "2.",
     "sectionTitle": "CARATTERISTICHE PRINCIPALI",
-    "features": [],
+    "features": [
+      {
+        "label": "Tipologia",
+        "text": "Bilocale in palazzina del 2007 con integrale ammodernamento nel 2021, in una scala di sole 8 unità su due piani. Residenza Gli Aceri, Via Ai Ronchi 63, Mozzate."
+      },
+      {
+        "label": "Appartamento",
+        "text": "Posto al secondo e ultimo piano, con soggiorno con angolo cottura, camera matrimoniale e bagno. La scheda indica 45 mq commerciali, il testo dell'annuncio 50 mq commerciali."
+      },
+      {
+        "label": "Interni",
+        "text": "La zona giorno presenta un soffitto che sale, dando all'ambiente un respiro differente. Gres porcellanato in tutti gli ambienti senza stacchi e porte interne nuove del 2021."
+      },
+      {
+        "label": "Area Esterna",
+        "text": "Il soggiorno con angolo cottura si apre su un balcone. La scheda riporta 1 balcone e la presenza di terrazzo."
+      },
+      {
+        "label": "Bagno",
+        "text": "Completamente rifatto nel 2021, con sanitari sospesi, doccia ampia e finestra motorizzata."
+      },
+      {
+        "label": "Impianti e infissi",
+        "text": "Serramenti in PVC VEKA AD70 con doppio vetro, persiane in alluminio a lamelle orientabili e porta blindata (2021). Riscaldamento autonomo con caldaia a condensazione nuova BAXI e climatizzazione Mitsubishi Kirigamine Style dual split."
+      },
+      {
+        "label": "Altre dotazioni",
+        "text": "Videocitofono, fibra ottica e tende parasole. Cantina al piano interrato."
+      },
+      {
+        "label": "Arredi inclusi",
+        "text": "Cucina e arredo bagno sono compresi nel prezzo. La scheda riporta l'immobile come semi arredato."
+      },
+      {
+        "label": "Prezzo e spese",
+        "text": "Prezzo € 93.000, cucina e arredo bagno inclusi. Spese condominiali 600 €/anno (50 € al mese), IMU prima casa esente; l'annuncio indica un'uscita mensile comprando di circa 430 € e una rata di circa 380 € al mese."
+      }
+    ],
     "condominioTitle": "Informazioni Condominiali",
     "condominioItems": [],
     "images": []
