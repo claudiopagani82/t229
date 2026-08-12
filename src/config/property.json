@@ -1,0 +1,744 @@
+{
+  "version": "1.40",
+  "disabled": false,
+  "expiresAt": "2026-08-17T23:59:59+01:00",
+  "title": "IL METODO OPEN DOMUS",
+  "subtitle": "Un modo diverso di acquistare casa",
+  "description": "L'Open Domus non è stato creato per vendere una casa più velocemente.\nÈ stato creato per permettere a ogni persona di acquistarla con maggiore consapevolezza, trasparenza e serenità.",
+  "address": "",
+  "annuncio": {
+    "adId": "",
+    "url": "",
+    "prezzo": null,
+    "prezzoTesto": "",
+    "aggiornatoIl": null
+  },
+  "agencyName": "DomusTua Immobiliare",
+  "agencyPhone": "+39 0331 844898 | +39 346 6042314",
+  "agencyEmail": "immobiliare@domustua.com",
+  "navigation": [
+    {
+      "title": "Benvenuto",
+      "href": "/",
+      "enabled": true
+    },
+    {
+      "title": "🏡 1. Dove si trova",
+      "href": "/scopri-la-casa",
+      "enabled": true
+    },
+    {
+      "title": "🏗️ 2. La Qualità dell'Immobile",
+      "href": "/la-qualita-dell-immobile",
+      "enabled": true
+    },
+    {
+      "title": "📐 3. Gli Spazi",
+      "href": "/gli-spazi",
+      "enabled": true
+    },
+    {
+      "title": "📄 4. La Documentazione",
+      "href": "/la-documentazione",
+      "enabled": true
+    },
+    {
+      "title": "🎥 5. Vivi la Casa",
+      "href": "/vivi-la-casa",
+      "enabled": true
+    },
+    {
+      "title": "💶 6. Quanto Costa",
+      "href": "/quanto-costa",
+      "enabled": true
+    },
+    {
+      "title": "✍️ 7. Come Acquistarla",
+      "href": "/come-acquistarla",
+      "enabled": true
+    },
+    {
+      "title": "🤝 8. Il Metodo Open Domus®",
+      "href": "/open-domus",
+      "enabled": true
+    },
+    {
+      "title": "⭐ 9. Le Esperienze dei Nostri Acquirenti",
+      "href": "/esperienze-acquirenti",
+      "enabled": true
+    },
+    {
+      "title": "🔁 9B. Per comprare devi vendere la tua casa?",
+      "href": "/devi-vendere",
+      "enabled": true
+    },
+    {
+      "title": "❤️ 10. Il Mondo Domus Tua",
+      "href": "/mondo-domus-tua",
+      "enabled": true
+    },
+    {
+      "title": "Introduzione",
+      "href": "/introduzione",
+      "enabled": false
+    },
+    {
+      "title": "Link utili",
+      "href": "/link-utili",
+      "enabled": true
+    },
+    {
+      "title": "Link utili 2",
+      "href": "/link-utili2",
+      "enabled": true
+    },
+    {
+      "title": "Per te, VENDITORE",
+      "href": "/per-te-venditore",
+      "enabled": true
+    }
+  ],
+  "introduzione": {
+    "enabled": false,
+    "heading": "Benvenuti in Domus Tua",
+    "greeting": "Gentile cliente,",
+    "paragraph1": "La presente brochure digitale è stata pensata per offrirLe una panoramica completa e dettagliata dell'immobile di Suo interesse, con l'obiettivo di fornirLe tutte le informazioni necessarie per valutare con chiarezza ogni aspetto dell'immobile.",
+    "sectionsLabel": "All'interno troverà sezioni dedicate a:",
+    "sections": [
+      "CARATTERISTICHE PRINCIPALI DELL'IMMOBILE",
+      "PLANIMETRIE",
+      "DATI CATASTALI",
+      "ATTESTATO DI PRESTAZIONE ENERGETICA (APE)",
+      "RELAZIONE TECNICA",
+      "DICHIARAZIONI IMPIANTI",
+      "DOCUMENTI CONDOMINIO",
+      "BOZZA PROPOSTA DI ACQUISTO",
+      "PROSPETTO COSTI",
+      "VIDEO SOCIAL"
+    ],
+    "paragraph2": "Con Domus Tua, avere tutte le informazioni a portata di mano significa poter valutare l'immobile con serenità e trasparenza, senza dover attendere ulteriori documenti o chiarimenti."
+  },
+  "scopriLaCasa": {
+    "enabled": true,
+    "sectionNumber": "1.",
+    "sectionTitle": "DOVE SI TROVA",
+    "intro": {
+      "enabled": true,
+      "text": ""
+    }
+  },
+  "qualitaImmobile": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "LA QUALITÀ DELL'IMMOBILE",
+    "sourceDocument": "",
+    "generatedAt": null,
+    "voci": [
+      {
+        "label": "Anno costruzione",
+        "text": ""
+      },
+      {
+        "label": "Ristrutturazioni",
+        "text": ""
+      },
+      {
+        "label": "Serramenti",
+        "text": ""
+      },
+      {
+        "label": "Tetto",
+        "text": ""
+      },
+      {
+        "label": "Cappotto",
+        "text": ""
+      },
+      {
+        "label": "Riscaldamento",
+        "text": ""
+      },
+      {
+        "label": "Climatizzazione",
+        "text": ""
+      },
+      {
+        "label": "Materiali",
+        "text": ""
+      },
+      {
+        "label": "Impianti",
+        "text": ""
+      },
+      {
+        "label": "Tutti i plus",
+        "text": ""
+      }
+    ]
+  },
+  "doveParcheggiare": {
+    "enabled": true,
+    "heading": "Come raggiungere l'immobile ",
+    "leftText": "",
+    "rightText": "",
+    "footer": "Troverete una collaboratrice ad aspettarvi per condurvi all'abitazione",
+    "images": [],
+    "mapImage": null,
+    "generatedAt": null,
+    "lat": null,
+    "lng": null,
+    "parcheggi": [],
+    "mapImageSatellite": null,
+    "streetViewImage": null,
+    "confrontoMappe": true,
+    "searchRadius": 1600
+  },
+  "doveSiamo": {
+    "enabled": true,
+    "heading": "Dove siamo",
+    "showAddress": true,
+    "address": "",
+    "mapImage": null,
+    "generatedAt": null,
+    "lat": null,
+    "lng": null,
+    "servizi": []
+  },
+  "openDomus": {
+    "enabled": true,
+    "sectionNumber": "8.",
+    "heading": "IL METODO OPEN DOMUS®",
+    "videoUrl": "",
+    "images": []
+  },
+  "esperienzeAcquirenti": {
+    "enabled": true,
+    "sectionNumber": "9.",
+    "sectionTitle": "LE ESPERIENZE DEI NOSTRI ACQUIRENTI",
+    "videoHeading": "Le loro parole",
+    "videos": [
+      {
+        "label": "Videointervista",
+        "url": ""
+      }
+    ],
+    "recensioniHeading": "Le recensioni",
+    "googlePlaceId": "",
+    "recensioniFonte": "manuale",
+    "recensioniAggiornateIl": null,
+    "recensioniBadge": "",
+    "recensioni": [
+      {
+        "name": "",
+        "rating": 5,
+        "text": "",
+        "data": "",
+        "url": ""
+      }
+    ]
+  },
+  "deviVendere": {
+    "enabled": true,
+    "sectionNumber": "9B.",
+    "sectionTitle": "PER COMPRARE DEVI VENDERE LA TUA CASA?",
+    "text": "Molti dei nostri acquirenti hanno una casa da vendere prima di comprare. È una cosa che sappiamo gestire: possiamo valutare il tuo immobile e dirti in quanto tempo, realisticamente, si vende.",
+    "videoUrl": "",
+    "ctaLabel": "Chiedi la tua valutazione",
+    "ctaUrl": ""
+  },
+  "mondoDomusTua": {
+    "enabled": true,
+    "sectionNumber": "10.",
+    "sectionTitle": "IL MONDO DOMUS TUA",
+    "claim": "L'agenzia immobiliare indipendente più recensita della provincia",
+    "numeri": [
+      {
+        "valore": "6.433",
+        "etichetta": "persone felici"
+      },
+      {
+        "valore": "1.523",
+        "etichetta": "transazioni"
+      },
+      {
+        "valore": "92%",
+        "etichetta": "di immobili venduti"
+      },
+      {
+        "valore": "269.395",
+        "etichetta": "mq valutati"
+      }
+    ],
+    "premi": [
+      {
+        "titolo": "Top Agency d'Italia",
+        "anno": "2025"
+      },
+      {
+        "titolo": "Top Agency d'Italia",
+        "anno": "2024"
+      }
+    ],
+    "recensioniUrl": "",
+    "youtubeCanale": "https://www.youtube.com/@DOMUSTUASRLIMMOBILIARE",
+    "youtubePlaylist": "https://www.youtube.com/playlist?list=PLPCjl_WhESf95lAgOUkWgImiNehWJZvty",
+    "sitoUrl": "https://www.domustua.com",
+    "social": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/domustuaimmobiliare_tradate"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/domustuaimmobiliaretradate"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@domustuaimmobiliare"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@DOMUSTUASRLIMMOBILIARE"
+      }
+    ],
+    "indirizzo": "Corso Bernacchi, 91 – 21049 Tradate (VA)"
+  },
+  "caratteristichePrincipali": {
+    "enabled": true,
+    "sectionNumber": "2.",
+    "sectionTitle": "CARATTERISTICHE PRINCIPALI",
+    "features": [],
+    "condominioTitle": "Informazioni Condominiali",
+    "condominioItems": [],
+    "images": []
+  },
+  "planimetrieCatasto": {
+    "enabled": true,
+    "sectionNumber": "3.",
+    "sectionTitle": "PLANIMETRIE E DATI CATASTALI",
+    "items": [
+      {
+        "label": "Planimetrie quotate",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Planimetrie catastali",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Visure catastali",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "ape": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "APE - ATTESTATO DI PRESTAZIONE ENERGETICA",
+    "items": [
+      {
+        "label": "Certificato energetico",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "bolletteImpianti": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "BOLLETTE E IMPIANTI",
+    "items": [
+      {
+        "label": "Bolletta gas – riscaldamento autonomo",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Bolletta energia elettrica",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "relazioneTecnica": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "RELAZIONE TECNICA",
+    "introHeading": "Cos'è la Relazione Tecnico-Integrata",
+    "introParagraph": "È un documento redatto da un tecnico abilitato che certifica: la conformità urbanistica, verificando la corrispondenza tra lo stato dell'immobile e i titoli edilizi; la conformità catastale, con riscontro tra dati catastali e situazione reale; gli aspetti amministrativi, attraverso la consultazione delle pratiche depositate presso gli uffici comunali.\n\nQuesta relazione rappresenta una garanzia di trasparenza per chi vende e per chi acquista.",
+    "statusHeading": "Accesso agli Atti",
+    "statusParagraph": "",
+    "items": [
+      {
+        "label": "Relazione tecnica descrittiva dell'immobile",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Stato di conservazione delle strutture",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Descrizione interventi di ristrutturazione",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "comeAcquistarla": {
+    "enabled": true,
+    "sectionNumber": "7.",
+    "sectionTitle": "COME ACQUISTARLA",
+    "items": [
+      {
+        "label": "Procedura (manifestazione di interesse)",
+        "enabled": true,
+        "text": "",
+        "videoUrl": "",
+        "documentUrl": null
+      },
+      {
+        "label": "Bozza proposta",
+        "enabled": true,
+        "text": "",
+        "videoUrl": "",
+        "documentUrl": null
+      },
+      {
+        "label": "Caparra o bonifico bancario",
+        "enabled": true,
+        "text": "",
+        "videoUrl": "",
+        "documentUrl": null
+      }
+    ]
+  },
+  "quantoCosta": {
+    "enabled": true,
+    "sectionNumber": "6.",
+    "sectionTitle": "QUANTO COSTA",
+    "voci": [
+      {
+        "label": "Prezzo acquisto prima casa",
+        "documentUrl": null
+      },
+      {
+        "label": "Prezzo acquisto seconda casa",
+        "documentUrl": null
+      }
+    ]
+  },
+  "viviLaCasa": {
+    "enabled": true,
+    "sectionNumber": "5.",
+    "sectionTitle": "VIVI LA CASA",
+    "galleryHeading": "LE FOTO DELL’IMMOBILE",
+    "galleryEnabled": true,
+    "gallery": [],
+    "galleryGeneratedAt": null
+  },
+  "matterport": {
+    "enabled": true,
+    "heading": "GUARDA IL MATTERPORT!",
+    "subtitle": "Entra dentro all'appartamento attraverso una visita virtuale in 3D",
+    "propertyName": "",
+    "propertyLocation": "",
+    "url": "https://INSERISCI-QUI-IL-LINK-MATTERPORT"
+  },
+  "videoSocial": {
+    "enabled": true,
+    "heading": "GUARDA IL VIDEO DELL'IMMOBILE SU INSTAGRAM",
+    "subtitle": "Segui Domus Tua Immobiliare su Instagram per non perdere nessun immobile",
+    "instagramHandle": "@domustua.immobiliare",
+    "url": "",
+    "thumbnail": null
+  },
+  "linkUtili": {
+    "enabled": true,
+    "heading": "Benvenuti in Domus Tua",
+    "bio": "❤️ Facile vendere e sicuro acquistare ❤️",
+    "avatarImage": "/images/logo-domustua.png",
+    "bannerImage": "/images/link-utili-banner.jpg",
+    "socialLinks": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/domustuaimmobiliare_tradate"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@domustuaimmobiliare"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@DOMUSTUASRLIMMOBILIARE"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/domustuaimmobiliaretradate/"
+      }
+    ],
+    "youtubeChannelId": "UCNkIKFUChLpMibKacUe7BXw",
+    "reviewsBadge": "+500 recensioni · ★4.9 su Google",
+    "reviewsLive": false,
+    "reviews": [
+      {
+        "name": "Cliente Domus Tua",
+        "rating": 5,
+        "text": "Recensione di esempio: verrà sostituita automaticamente dalle recensioni reali di Google una volta collegata l'integrazione."
+      }
+    ],
+    "links": [
+      {
+        "type": "sell",
+        "label": "🏡 Vuoi vendere casa? Scopri come funziona",
+        "url": "https://www.domustua.com/",
+        "enabled": true,
+        "image": "/images/link-utili-sell.jpg",
+        "badge": "Segui su Instagram"
+      },
+      {
+        "type": "instagram",
+        "label": "📸 Guarda come vendiamo casa su Instagram",
+        "url": "https://www.instagram.com/domustuaimmobiliare_tradate",
+        "enabled": true,
+        "image": null,
+        "badge": "Segui su Instagram"
+      },
+      {
+        "type": "tiktok",
+        "label": "🎵 Guarda gli ultimi video su TikTok",
+        "url": "https://www.tiktok.com/@domustuaimmobiliare",
+        "enabled": true,
+        "image": null,
+        "badge": "Segui su TikTok"
+      },
+      {
+        "type": "youtube",
+        "label": "▶️ Scopri il metodo Domus Tua su YouTube",
+        "url": "https://www.youtube.com/@DOMUSTUASRLIMMOBILIARE",
+        "enabled": true,
+        "image": null,
+        "badge": "Iscriviti al canale"
+      },
+      {
+        "type": "facebook",
+        "label": "👍 Seguici su Facebook",
+        "url": "https://www.facebook.com/domustuaimmobiliaretradate/",
+        "enabled": true,
+        "image": null,
+        "badge": "Segui su Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "label": "📲 Scrivici su WhatsApp per una valutazione",
+        "url": "https://wa.me/3466042314",
+        "enabled": true,
+        "image": null,
+        "badge": null
+      },
+      {
+        "type": "agency",
+        "label": "📍 Vieni a trovarci in agenzia",
+        "url": "https://www.google.com/maps?ll=45.711428,8.907599&z=15&t=m&hl=it&gl=IT&mapclient=embed&cid=1402630747648240075",
+        "enabled": true,
+        "image": "/images/link-utili-agenzia.jpg",
+        "badge": null
+      }
+    ]
+  },
+  "linkUtili2": {
+    "enabled": true,
+    "heading": "Benvenuti in Domus Tua",
+    "bio": "❤️ Facile vendere e sicuro acquistare ❤️",
+    "avatarImage": "/images/logo-domustua.png",
+    "bannerImage": "/images/link-utili-banner.jpg",
+    "socialLinks": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/domustuaimmobiliare_tradate"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@domustuaimmobiliare"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@DOMUSTUASRLIMMOBILIARE"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/domustuaimmobiliaretradate/"
+      }
+    ],
+    "youtubeChannelId": "UCNkIKFUChLpMibKacUe7BXw",
+    "reviewsBadge": "+500 recensioni · ★4.9 su Google",
+    "reviewsLive": false,
+    "reviews": [
+      {
+        "name": "Cliente Domus Tua",
+        "rating": 5,
+        "text": "Recensione di esempio: verrà sostituita automaticamente dalle recensioni reali di Google una volta collegata l'integrazione."
+      }
+    ],
+    "links": [
+      {
+        "type": "sell",
+        "label": "🏡 Vuoi vendere casa? Scopri come funziona",
+        "url": "https://www.domustua.com/",
+        "enabled": true,
+        "image": "/images/link-utili-sell.jpg",
+        "badge": "Segui su Instagram"
+      },
+      {
+        "type": "instagram",
+        "label": "📸 Guarda come vendiamo casa su Instagram",
+        "url": "https://www.instagram.com/domustuaimmobiliare_tradate",
+        "enabled": true,
+        "image": null,
+        "badge": "Segui su Instagram"
+      },
+      {
+        "type": "tiktok",
+        "label": "🎵 Guarda gli ultimi video su TikTok",
+        "url": "https://www.tiktok.com/@domustuaimmobiliare",
+        "enabled": true,
+        "image": null,
+        "badge": "Segui su TikTok"
+      },
+      {
+        "type": "youtube",
+        "label": "▶️ Scopri il metodo Domus Tua su YouTube",
+        "url": "https://www.youtube.com/@DOMUSTUASRLIMMOBILIARE",
+        "enabled": true,
+        "image": null,
+        "badge": "Iscriviti al canale"
+      },
+      {
+        "type": "facebook",
+        "label": "👍 Seguici su Facebook",
+        "url": "https://www.facebook.com/domustuaimmobiliaretradate/",
+        "enabled": true,
+        "image": null,
+        "badge": "Segui su Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "label": "📲 Scrivici su WhatsApp per una valutazione",
+        "url": "https://wa.me/3466042314",
+        "enabled": true,
+        "image": null,
+        "badge": null
+      },
+      {
+        "type": "agency",
+        "label": "📍 Vieni a trovarci in agenzia",
+        "url": "https://www.google.com/maps?ll=45.711428,8.907599&z=15&t=m&hl=it&gl=IT&mapclient=embed&cid=1402630747648240075",
+        "enabled": true,
+        "image": "/images/link-utili-agenzia.jpg",
+        "badge": null
+      }
+    ]
+  },
+  "perTeVenditore": {
+    "enabled": true,
+    "heading": "PER TE VENDITORE...",
+    "tagline": "Segnalacelo, un eccellente bonus ti aspetta.",
+    "ctaHighlight": "ORA",
+    "agencyFullName": "Domus Tua Srl",
+    "agencyAddress": "C.so Bernacchi, 91 - Tradate (VA)",
+    "agencyCell": "346 604 2314",
+    "reviewsLabel": "Clicca qui e LEGGI tutte LE NOSTRE RECENSIONI",
+    "reviewsScore": "4.9"
+  },
+  "certificazioneElettrico": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "CERTIFICAZIONE (RISPONDENZA) IMPIANTO ELETTRICO",
+    "items": [
+      {
+        "label": "Dichiarazione di conformità impianto elettrico",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "certificazioneIdricoTermico": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "CERTIFICAZIONE (RISPONDENZA) IMPIANTO IDRICO/TERMICO/SANITARIO",
+    "items": [
+      {
+        "label": "Dichiarazione di conformità impianto idraulico",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Dichiarazione di conformità impianto termico",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "librettoCaldaia": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "LIBRETTO CALDAIA",
+    "items": [
+      {
+        "label": "Libretto caldaia a condensazione",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "regolamentoCondominio": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "REGOLAMENTO DI CONDOMINIO",
+    "items": [
+      {
+        "label": "Regolamento condominiale",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "speseCondominiali": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "SPESE CONDOMINIALI 2024-2025",
+    "items": [
+      {
+        "label": "Piano di riparto spese condominiali",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Attestazione assenza morosità condominiale",
+        "enabled": false,
+        "documentUrl": null
+      }
+    ]
+  },
+  "verbali": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "VERBALI",
+    "items": [
+      {
+        "label": "Verbale ultima assemblea condominiale",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "laDocumentazione": {
+    "enabled": true,
+    "sectionNumber": "4.",
+    "sectionTitle": "LA DOCUMENTAZIONE"
+  }
+}
