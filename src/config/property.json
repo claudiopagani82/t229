@@ -1,17 +1,17 @@
 {
   "version": "1.40",
   "disabled": false,
-  "expiresAt": "2026-08-17T23:59:59+01:00",
+  "expiresAt": "2026-08-19T23:59:59+02:00",
   "title": "IL METODO OPEN DOMUS",
   "subtitle": "Un modo diverso di acquistare casa",
   "description": "L'Open Domus non è stato creato per vendere una casa più velocemente.\nÈ stato creato per permettere a ogni persona di acquistarla con maggiore consapevolezza, trasparenza e serenità.",
-  "address": "",
+  "address": "Via ai Ronchi, 63, Mozzate",
   "annuncio": {
-    "adId": "",
-    "url": "",
-    "prezzo": null,
-    "prezzoTesto": "",
-    "aggiornatoIl": null
+    "adId": "T229",
+    "url": "https://annunci.domustua.com/annuncio/T229",
+    "prezzo": 93000,
+    "prezzoTesto": "€ 93.000",
+    "aggiornatoIl": "2026-08-12T15:33:49.508Z"
   },
   "agencyName": "DomusTua Immobiliare",
   "agencyPhone": "+39 0331 844898 | +39 346 6042314",
@@ -124,7 +124,7 @@
     "sectionTitle": "DOVE SI TROVA",
     "intro": {
       "enabled": true,
-      "text": ""
+      "text": "Benvenuta/o, visita questo bilocale arredato completamente ristrutturato Mozzate sito in Via ai Ronchi, 63, Mozzate"
     }
   },
   "qualitaImmobile": {
@@ -183,10 +183,10 @@
     "rightText": "",
     "footer": "Troverete una collaboratrice ad aspettarvi per condurvi all'abitazione",
     "images": [],
-    "mapImage": null,
-    "generatedAt": null,
-    "lat": null,
-    "lng": null,
+    "mapImage": "/images/dove-parcheggiare-map-1786548833288.png",
+    "generatedAt": "2026-08-12T15:33:54.201Z",
+    "lat": 45.6830212,
+    "lng": 8.958848699999999,
     "parcheggi": [],
     "mapImageSatellite": null,
     "streetViewImage": null,
@@ -197,12 +197,41 @@
     "enabled": true,
     "heading": "Dove siamo",
     "showAddress": true,
-    "address": "",
-    "mapImage": null,
-    "generatedAt": null,
-    "lat": null,
-    "lng": null,
-    "servizi": []
+    "address": "Via ai Ronchi, 63, Mozzate",
+    "mapImage": "/images/dove-siamo-map-1786548831605.png",
+    "generatedAt": "2026-08-12T15:33:52.653Z",
+    "lat": 45.6830212,
+    "lng": 8.958848699999999,
+    "servizi": [
+      {
+        "markerNumber": 1,
+        "category": "scuola",
+        "label": "Skating como pattinaggio artistico a rotelle",
+        "distanceText": "1,4 km",
+        "durationText": "19 min"
+      },
+      {
+        "markerNumber": 2,
+        "category": "scuola",
+        "label": "Istituto Comprensivo di Mozzate",
+        "distanceText": "1,4 km",
+        "durationText": "19 min"
+      },
+      {
+        "markerNumber": 3,
+        "category": "farmacia",
+        "label": "Farmacia Bernardelli-Caione - Mozzate (co)",
+        "distanceText": "1,6 km",
+        "durationText": "21 min"
+      },
+      {
+        "markerNumber": 4,
+        "category": "stazione",
+        "label": "Mozzate",
+        "distanceText": "1,2 km",
+        "durationText": "16 min"
+      }
+    ]
   },
   "openDomus": {
     "enabled": true,
